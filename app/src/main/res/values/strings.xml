@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">HelloWorld</string>
-    <string name="new_string">New</string>
+    <string name="new_string">Old</string>
 </resources>
